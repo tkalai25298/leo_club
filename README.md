@@ -1,1 +1,1 @@
-# leo_club
+permalink: /index.html
